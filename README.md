@@ -1,2 +1,0 @@
-# GismondSnake
-Made for Gismond
